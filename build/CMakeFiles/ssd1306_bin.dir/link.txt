@@ -1,0 +1,1 @@
+//duo-sdk/riscv64-linux-musl-x86_64/bin/riscv64-unknown-linux-musl-gcc --sysroot=//duo-sdk/rootfs -static CMakeFiles/ssd1306_bin.dir/main.c.o -o ssd1306_bin  libssd1306.a 
